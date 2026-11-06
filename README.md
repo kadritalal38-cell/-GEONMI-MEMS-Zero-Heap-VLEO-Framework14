@@ -7,6 +7,7 @@
 ![Application: Civil & Commercial](https://shields.io)
 ![Eco-Status: Space Sustainability](https://shields.io)
 
+<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/e0f26dc2-4424-498e-9175-1f5ed0ea1829" />
 ## 🌌 Executive Summary & System Interconnectivity
 
 **GEONMI-MEMS Zero-Heap VLEO Framework** is a unified, high-reliability aerospace architecture specifically engineered for next-generation hybrid satellite constellations operating within **Very Low Earth Orbit (VLEO)**. 
