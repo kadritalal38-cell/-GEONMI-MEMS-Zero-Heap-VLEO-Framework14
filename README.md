@@ -7,7 +7,8 @@
 ![Application: Civil & Commercial](https://shields.io)
 ![Eco-Status: Space Sustainability](https://shields.io)
 
-<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/e0f26dc2-4424-498e-9175-1f5ed0ea1829" />
+<img width="620" height="505" alt="Image" src="https://github.com/user-attachments/assets/c71d47d5-94f0-49dc-bea1-aeb6a4a814f4" />
+
 ## 🌌 Executive Summary & System Interconnectivity
 
 **GEONMI-MEMS Zero-Heap VLEO Framework** is a unified, high-reliability aerospace architecture specifically engineered for next-generation hybrid satellite constellations operating within **Very Low Earth Orbit (VLEO)**. 
@@ -59,7 +60,7 @@ The **GEONMI-MEMS** software-driven hardening paradigm drastically shifts the ec
 
 * **~70% Bill of Materials (BOM) Cost Reduction:** Eliminates the requirement for multi-million dollar radiation-hardened space ASICs. High-performance, mass-manufactured Commercial-Off-The-Shelf (COTS) microcontrollers are fully secured at the software architectural layer.
 * **Extended Operational Lifespan (~2.5x ROI Extension):** Active aerodynamic mitigation and ram-plasma energy harvesting increase orbital persistence, multiplying the commercial service window with zero structural mass penalty.
-<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/8366beb0-c327-4f97-82c5-a4aa6bead2a2" />
+
 
 ---
 
