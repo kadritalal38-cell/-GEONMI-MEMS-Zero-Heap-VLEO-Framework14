@@ -19,6 +19,9 @@ At the core of this repository is a unified scientific paradigm: **The Tri-Symme
 * **Aero-Dynamic Flight Core:** Real-time adaptation and active compensation for severe thermospheric drag and atomic oxygen interaction on 15kg core craft.
 * **Distributed Swarm Synchronization:** Hard real-time, multi-node temporal and spatial coordination ensuring collision avoidance and topological harmony for the 500+ node sub-swarm.
 
+<img width="696" height="460" alt="Image" src="https://github.com/user-attachments/assets/9017e325-bfad-47ae-bcf4-4c62aa4f1882" />
+
+
 ---
 
 ## 🔗 Core Subsystem Repositories
