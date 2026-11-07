@@ -30,7 +30,7 @@ This master framework directly orchestrates and integrates the following core un
 
 * 🚀 **Micro-Propulsion Engine Core:** [GEONMI-MEMS-VLEO-Engine2]https://github.com/kadritalal38-cell/GEONMI-MEMS-VLEO-Engine2  — *Manages micro-thrust vectoring, hardware registers, and MEMS actuation loops for the 15kg core craft.*
 * 📐 **Aero-Orbital Dynamics Core:** [GEONMI-MEMS-VLEO-AeroCore-3]https://github.com/kadritalal38-cell/GEONMI-MEMS-VLEO-AeroCore-3— *Enforces thermospheric drag compensation models and high-order integration.*
-* 📡 **Swarm Synchronization Fleet Core:** [-GEONMI-MEMS-VLEO-Sync500](https: https://github.com/kadritalal38-cell/-GEONMI-MEMS-VLEO-Sync500— *Handles decentralized node alignment, relative positioning, and ad-hoc communication routing for the 500g ChipSat sub-swarm.*
+* 📡 **Swarm Synchronization Fleet Core:** [-GEONMI-MEMS-VLEO-Sync500]: https://github.com/kadritalal38-cell/-GEONMI-MEMS-VLEO-Sync500— *Handles decentralized node alignment, relative positioning, and ad-hoc communication routing for the 500g ChipSat sub-swarm.*
 
 ---
 
