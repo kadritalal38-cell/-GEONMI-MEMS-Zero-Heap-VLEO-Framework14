@@ -72,6 +72,7 @@ The **GEONMI-MEMS** software-driven hardening paradigm drastically shifts the ec
 
 * **Software Maturity Rating:** **94.5% Readiness**
 * **Deployment Target:** Thoroughly validated through comprehensive simulation testing. The source structure is fully prepared for target-agnostic cross-compilation and flashing directly onto physical microcontrollers adhering to strict C++17 standards.
+<img width="672" height="427" alt="Image" src="https://github.com/user-attachments/assets/e12ec49e-d59e-4784-88bf-7e1024c890ee" />
 
 ---
 
