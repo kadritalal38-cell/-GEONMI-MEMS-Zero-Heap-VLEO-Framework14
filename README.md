@@ -1,4 +1,4 @@
-# -GEONMI-MEMS-Zero-Heap-VLEO-Framework14
+
 # GEONMI-MEMS Zero-Heap VLEO Framework
 
 ![Framework: Tri-Symmetric](https://shields.io)
