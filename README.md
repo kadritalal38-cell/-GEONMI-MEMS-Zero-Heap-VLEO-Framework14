@@ -64,6 +64,7 @@ The **GEONMI-MEMS** software-driven hardening paradigm drastically shifts the ec
 * **~70% Bill of Materials (BOM) Cost Reduction:** Eliminates the requirement for multi-million dollar radiation-hardened space ASICs. High-performance, mass-manufactured Commercial-Off-The-Shelf (COTS) microcontrollers are fully secured at the software architectural layer.
 * **Extended Operational Lifespan (~2.5x ROI Extension):** Active aerodynamic mitigation and ram-plasma energy harvesting increase orbital persistence, multiplying the commercial service window with zero structural mass penalty.
 
+<img width="692" height="502" alt="Image" src="https://github.com/user-attachments/assets/af7de430-f361-4026-8540-2ec8103b7b23" />
 
 ---
 
