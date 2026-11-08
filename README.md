@@ -65,6 +65,8 @@ The **GEONMI-MEMS** software-driven hardening paradigm drastically shifts the ec
 * **Extended Operational Lifespan (~2.5x ROI Extension):** Active aerodynamic mitigation and ram-plasma energy harvesting increase orbital persistence, multiplying the commercial service window with zero structural mass penalty.
 
 <img width="692" height="502" alt="Image" src="https://github.com/user-attachments/assets/af7de430-f361-4026-8540-2ec8103b7b23" />
+Disclaimer: All financial figures provided herein are purely hypothetical, estimated for illustrative purposes only, and do not constitute a binding rule or official guarantee.
+
 
 ---
 
